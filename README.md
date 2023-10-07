@@ -1,3 +1,4 @@
+![masterHead](https://github.com/prabhatKumar65/Newbanner/blob/main/Read%20&%20Blue%20Anatomy%20101%20Google%20Classroom%20Header%20(2).gif?raw=true)
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center"> Artificial intelligence and Data Science Aspirant</h3>
 <img align="right" alt= "AI&DS Engineer" width="600" src="https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif">
